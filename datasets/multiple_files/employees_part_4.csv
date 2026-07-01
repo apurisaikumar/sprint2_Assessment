@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,City,Salary,Department,Experience,JoiningDate
+1021,Jamie Valencia,47,Female,Chennai,116412,HR,19,2020-01-21
+1011,John Lambert,28,Male,Madurai,71975,Sales,1,2020-01-11
+1097,Jason Mills,26,Female,Salem,30801,Marketing,10,2020-04-06
+1017,Shaun Hess,39,Female,Salem,119179,Finance,13,2020-01-17
+1064,Mark Sanchez,23,Female,Coimbatore,88208,Marketing,12,2020-03-04
+1025,Jacob Brown,50,Male,Salem,47399,IT,8,2020-01-25
+1054,John Hernandez,61,Female,Chennai,81835,HR,17,2020-02-23
+1098,Kelly Potter,41,Female,Chennai,44190,IT,9,2020-04-07
+1042,Wesley Woodard,56,Male,Trichy,44738,Sales,3,2020-02-11
+1048,Kimberly Anderson,43,Male,Chennai,30600,Marketing,5,2020-02-17
+1044,Andrea Compton,21,Female,Coimbatore,74377,Sales,4,2020-02-13
+1003,Anthony Nelson,32,Male,Chennai,78351,IT,3,2020-01-03
+1096,Leslie Torres,24,Male,Madurai,79748,Marketing,8,2020-04-05
+1027,Colleen Gonzalez,39,Female,Madurai,111416,HR,2,2020-01-27
+1014,Andrew Jones,57,Male,Chennai,27869,Finance,10,2020-01-14
+1038,Julia Nelson,54,Male,Chennai,28436,Marketing,5,2020-02-07
+1015,George Edwards,41,Female,Madurai,86135,Sales,11,2020-01-15
+1030,Jason White,44,Male,Chennai,95091,IT,7,2020-01-30
+1036,Ashley Brewer,61,Male,Salem,104909,Sales,4,2020-02-05
+1055,Blake Salazar,25,Female,Salem,98744,Finance,17,2020-02-24

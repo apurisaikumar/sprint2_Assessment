@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,City,Salary,Department,Experience,JoiningDate
+1067,John Ferrell,46,Male,Salem,28420,IT,14,2020-03-07
+1033,Kaylee Beltran,33,Female,Chennai,44830,IT,13,2020-02-02
+1047,Valerie Smith,26,Female,Madurai,64790,Finance,7,2020-02-16
+1029,Nancy Massey DVM,42,Male,Trichy,69064,IT,9,2020-01-29
+1075,David Gonzalez,48,Male,Chennai,75336,HR,16,2020-03-15
+1024,Jorge Garner,38,Female,Salem,83871,Sales,17,2020-01-24
+1011,John Lambert,28,Male,Madurai,71975,Sales,1,2020-01-11
+1021,Jamie Valencia,47,Female,Chennai,116412,HR,19,2020-01-21
+1018,Evan Garza,19,Male,Madurai,115272,Marketing,12,2020-01-18
+1036,Ashley Brewer,61,Male,Salem,104909,Sales,4,2020-02-05
+1098,Kelly Potter,41,Female,Chennai,44190,IT,9,2020-04-07
+1038,Julia Nelson,54,Male,Chennai,28436,Marketing,5,2020-02-07
+1071,Matthew Smith,51,Male,Coimbatore,79240,HR,5,2020-03-11
+1041,Jennifer Sanders,26,Male,Coimbatore,30895,Finance,17,2020-02-10
+1061,Jeffrey Newman,57,Male,Madurai,68525,Marketing,12,2020-03-01
+1035,Autumn King,64,Male,Coimbatore,31893,IT,4,2020-02-04
+1043,Scott White,35,Male,Salem,55746,HR,16,2020-02-12
+1058,Seth Bush,31,Male,Madurai,68484,Finance,19,2020-02-27
+1013,Michelle Moss,53,Female,Trichy,102505,Finance,8,2020-01-13
+1070,Tanner Martin,61,Male,Chennai,91235,Marketing,16,2020-03-10

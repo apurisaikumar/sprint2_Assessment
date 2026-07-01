@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,City,Salary,Department,Experience,JoiningDate
+1094,Jesse Myers,18,Female,Madurai,52751,Finance,14,2020-04-03
+1068,Sierra Patterson,35,Male,Salem,25301,Finance,19,2020-03-08
+1007,Chad Burgess,56,Female,Salem,63360,Marketing,11,2020-01-07
+1065,Jennifer Bates,59,Female,Madurai,58828,Marketing,9,2020-03-05
+1097,Jason Mills,26,Female,Salem,30801,Marketing,10,2020-04-06
+1084,Christine Deleon,35,Male,Salem,97991,Marketing,11,2020-03-24
+1099,Todd Simmons,18,Male,Salem,74689,Finance,18,2020-04-08
+1043,Scott White,35,Male,Salem,55746,HR,16,2020-02-12
+1026,Jordan Calhoun,29,Male,Coimbatore,71214,Marketing,10,2020-01-26
+1016,Matthew Stevenson,20,Male,Coimbatore,75108,HR,12,2020-01-16
+1078,Emily Collins,31,Male,Coimbatore,59584,IT,10,2020-03-18
+1010,Patrick Dyer,28,Male,Madurai,93497,IT,3,2020-01-10
+1072,David Holmes,27,Male,Chennai,90726,Marketing,3,2020-03-12
+1098,Kelly Potter,41,Female,Chennai,44190,IT,9,2020-04-07
+1035,Autumn King,64,Male,Coimbatore,31893,IT,4,2020-02-04
+1076,Mary Johnson,32,Female,Chennai,110314,IT,7,2020-03-16
+1083,Meghan Gomez,62,Female,Salem,61631,HR,11,2020-03-23
+1024,Jorge Garner,38,Female,Salem,83871,Sales,17,2020-01-24
+1060,Jennifer Martin,53,Male,Salem,61212,Marketing,4,2020-02-29
+1046,Lynn Johnston,31,Male,Madurai,79045,Finance,17,2020-02-15

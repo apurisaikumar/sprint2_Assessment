@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,City,Salary,Department,Experience,JoiningDate
+1081,Patricia Richardson,38,Female,Coimbatore,91105,Marketing,5,2020-03-21
+1085,Eric Allen,64,Female,Chennai,29014,Finance,18,2020-03-25
+1034,Samantha Wood,32,Male,Coimbatore,42429,Marketing,11,2020-02-03
+1082,Ashley Mora,33,Female,Chennai,76885,IT,3,2020-03-22
+1094,Jesse Myers,18,Female,Madurai,52751,Finance,14,2020-04-03
+1018,Evan Garza,19,Male,Madurai,115272,Marketing,12,2020-01-18
+1037,Sarah Baker,20,Male,Trichy,72333,IT,10,2020-02-06
+1083,Meghan Gomez,62,Female,Salem,61631,HR,11,2020-03-23
+1070,Tanner Martin,61,Male,Chennai,91235,Marketing,16,2020-03-10
+1066,Mr. Lucas Nichols,21,Female,Madurai,43711,Sales,7,2020-03-06
+1093,Brett Barnes,62,Female,Chennai,91320,Sales,7,2020-04-02
+1040,Ashley Marquez,38,Female,Madurai,101213,IT,3,2020-02-09
+1057,James Douglas,52,Male,Trichy,43589,HR,13,2020-02-26
+1053,Keith Nguyen,24,Female,Chennai,70714,Marketing,9,2020-02-22
+1052,Michelle Bailey,64,Male,Madurai,99543,IT,3,2020-02-21
+1033,Kaylee Beltran,33,Female,Chennai,44830,IT,13,2020-02-02
+1032,Mr. James Richards,45,Female,Madurai,70525,Marketing,18,2020-02-01
+1045,Steven Giles,42,Male,Salem,73404,IT,18,2020-02-14
+1079,Debra Sherman,40,Male,Madurai,57745,Finance,7,2020-03-19
+1011,John Lambert,28,Male,Madurai,71975,Sales,1,2020-01-11
