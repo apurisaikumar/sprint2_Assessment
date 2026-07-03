@@ -196,7 +196,7 @@ Implemented
 # Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/apurisaikumar/sprint2_Assessment.git
 
 cd sprint2_dataset_loading
 
